@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Salini",
+        "password": "suma123",
+        "age": "21",
+        "Email": "Suma@123",
+        "phone_number": "9399967037",
+        "address": "Rajahmundry",
+        "order history": {
+            "02-24-2023": [
+                "Paani Poori"
+            ]
+        }
+    }
+]
